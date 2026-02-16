@@ -45,22 +45,26 @@ The trained model is saved as a **.pkl file** and loaded in the Flask applicatio
 
 ## **Project Structure**
 
+```
 online-payment-fraud-detection/
 │
 ├── app.py
 ├── model.pkl
+│
 ├── static/
-│ └── style.css
+│   └── style.css
+│
 ├── templates/
-│ ├── home.html
-│ ├── predict.html
-│ └── submit.html
+│   ├── home.html
+│   ├── predict.html
+│   └── submit.html
+│
 ├── videos/
-│ ├── demo.mp4
-│ └── code.mp4
+│   ├── demo.mp4
+│   └── code.mp4
+│
 └── README.md
-
-
+```
 ---
 
 ## **How to Run the Project**
